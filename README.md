@@ -8,21 +8,13 @@
 
 ## About Me
 
-I'm a teenage builder and vibecoder fascinated by the possibilities of agentic AI.
-
-To me, vibecoding represents a fundamental shift in who gets to build software. In the past, people without traditional programming experience could imagine useful tools and products, but bringing those ideas to life often remained out of reach. AI has lowered that barrier. A strong idea, curiosity, and the willingness to experiment can now become a working product.
-
-My interest in AI agents began when I noticed how often people wished they could clone themselves to handle more work. Agents make a version of that possible: one person can coordinate a collection of specialised systems that research, reason, and act on their behalf. After using agents in my own work, I became increasingly interested in how they are designed—and in what happens beneath the final answer.
-
-That curiosity led me to a more difficult question:
-
-> **As agents become more capable and gain access to increasingly personal data, how do we know when their behaviour can be trusted?**
-
-I created [**Critiqor**](https://github.com/web3curtis/Critiqor) to explore that question at runtime. Critiqor observes how agents behave, helps diagnose reliability risks, and turns execution evidence into practical improvements. My broader goal is to build infrastructure around agent architectures that makes agents more accurate, reliable, and understandable as we give them greater responsibility.
-
-I build open-source tools at the edge of my understanding. Each project is both an attempt to solve a real problem and a public record of how quickly I can learn.
-
-I want my work to show curiosity about what is happening in the world, the ambition to explore emerging technology deeply, and the discipline to turn ideas into useful tools for real people.
+- 👋 Teenage builder and vibecoder fascinated by agentic AI.
+- 💡 I see AI as a way for people without traditional coding experience to turn strong ideas into working products.
+- 🤖 Interested in AI-agent architecture—especially how one person can coordinate specialised agents to research, reason, and act.
+- 🔍 Constantly asking: **How can we trust agents as they gain more autonomy and access to personal data?**
+- 🛠️ Created [**Critiqor**](https://github.com/web3curtis/Critiqor) to observe agent behaviour, diagnose runtime risks, and improve reliability through evidence.
+- 🌱 I build open-source tools at the edge of my understanding to solve real problems and make my learning visible.
+- 🎯 My goal is to make AI agents more accurate, reliable, and understandable for the people who depend on them.
 
 🌐 **Visit my website:** [web3curtis.vercel.app](https://web3curtis.vercel.app/)
 
