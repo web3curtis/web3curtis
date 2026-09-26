@@ -1,6 +1,8 @@
-# Hi there, I'm Curtis Qiu 👋
+# Curtis Q
 
 ### Teenage builder exploring AI-agent architecture, reliability, and infrastructure.
+
+![Web3Curtis — AI Founder, Builder, Innovator](assets/web3curtis-banner.png)
 
 ---
 
