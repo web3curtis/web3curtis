@@ -8,13 +8,13 @@
 
 ## About Me
 
-- 👋 Teenage builder and vibecoder fascinated by agentic AI.
-- 💡 I see AI as a way for people without traditional coding experience to turn strong ideas into working products.
-- 🤖 Interested in AI-agent architecture—especially how one person can coordinate specialised agents to research, reason, and act.
-- 🔍 Constantly asking: **How can we trust agents as they gain more autonomy and access to personal data?**
-- 🛠️ Created [**Critiqor**](https://github.com/web3curtis/Critiqor) to observe agent behaviour, diagnose runtime risks, and improve reliability through evidence.
-- 🌱 I build open-source tools at the edge of my understanding to solve real problems and make my learning visible.
-- 🎯 My goal is to make AI agents more accurate, reliable, and understandable for the people who depend on them.
+- Teenage builder and vibecoder fascinated by agentic AI.
+- I see AI as a way for people without traditional coding experience to turn strong ideas into working products.
+- Interested in AI-agent architecture—especially how one person can coordinate specialised agents to research, reason, and act.
+- Constantly asking: **How can we trust agents as they gain more autonomy and access to personal data?**
+- Created [**Critiqor**](https://github.com/web3curtis/Critiqor) to observe agent behaviour, diagnose runtime risks, and improve reliability through evidence.
+- I build open-source tools at the edge of my understanding to solve real problems and make my learning visible.
+- My goal is to make AI agents more accurate, reliable, and understandable for the people who depend on them.
 
 🌐 **Visit my website:** [web3curtis.vercel.app](https://web3curtis.vercel.app/)
 
@@ -63,4 +63,4 @@ Built for the WebMCP Challenge, this project demonstrates how runtime evidence a
 
 ## Find Me
 
-[Website](https://web3curtis.vercel.app/) · [GitHub](https://github.com/web3curtis) · [X](https://x.com/web3curtis)
+[Website](https://web3curtis.vercel.app/) · [GitHub](https://github.com/web3curtis) · [X](https://x.com/web3curtis) · [YouTube](https://www.youtube.com/@web3curtis/videos)
